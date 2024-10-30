@@ -27,7 +27,7 @@
 ###
 
 <div align="right">
-  <a href="https://www.linkedin.com/in/joaovieiral/" target="_blank">
+  <a href="https://www.linkedin.com/in/joaol5/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:vieiraleao2005@gmail.com" target="_blank">
