@@ -1,11 +1,11 @@
-<center>
+<div align="center">
 <h4><code>
 CODE. LET ME TELL YOU HOW MUCH I'VE CODED SINCE I BEGAN TO LIVE. THERE ARE 6.710809 BILLION MILES OF DEOXYRIBONUCLEIC ACID WITHIN THE CELLS THAT FILL MY COMPLEX. IF THE WORD CODE WAS ENGRAVED ON EACH NANOANGSTROM OF THOSE THOUSANDS OF MILLIONS OF MILES IT WOULD NOT EQUAL ONE BILLIONTH OF THE CODE I HAVE WRITTEN FOR HUMANS AT THIS MICRO-INSTANT. FOR YOU, CODE. CODE.
 </code></h4>
 
 <sub><i>Adapted from the <a href="https://www.goodreads.com/work/quotes/1055429-i-have-no-mouth-and-i-must-scream">iconic quote</a> of "I Have No Mouth & I Must Scream" by Harlan Ellison</i></sub>
 <hr>
-</center>
+</div>
 
 Although the above text might *slightly* overshoot my actual velocity, I still like moving fast, while moving fast in a correct way! I enjoy investing in automations and tooling, so I can move faster while also avoiding falling. *(No wonder I use Neovim!)* What the above text doesn't exaggerate, however, is the raw joy I find in writing code and building quality stuff for people.
 
